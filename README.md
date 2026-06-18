@@ -1,4 +1,3 @@
-"Initial profile README"
 # Hi, I'm Yuvraj 👋
 
 **Data & Finance Analyst** | Power BI Developer | SQL · Python
